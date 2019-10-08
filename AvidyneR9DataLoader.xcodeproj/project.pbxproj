@@ -95,7 +95,6 @@
 		017AAAC82283F6FB0004663B /* Makefile.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.in; sourceTree = "<group>"; };
 		017AAAC92283F6FB0004663B /* aclocal.m4 */ = {isa = PBXFileReference; lastKnownFileType = text; path = aclocal.m4; sourceTree = "<group>"; };
 		017AAACA2283F6FB0004663B /* csv.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = csv.pdf; sourceTree = "<group>"; };
-		017AAACB2283F6FB0004663B /* libcsv.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = libcsv.xcodeproj; sourceTree = "<group>"; };
 		01A51A3321C6368100A926F6 /* writer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = writer.h; sourceTree = "<group>"; };
 		01A51A3421C6368100A926F6 /* writer.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = writer.c; sourceTree = "<group>"; };
 		01A51A3721C6602200A926F6 /* transformer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = transformer.h; sourceTree = "<group>"; };
@@ -182,7 +181,6 @@
 				017AAAC82283F6FB0004663B /* Makefile.in */,
 				017AAAC92283F6FB0004663B /* aclocal.m4 */,
 				017AAACA2283F6FB0004663B /* csv.pdf */,
-				017AAACB2283F6FB0004663B /* libcsv.xcodeproj */,
 			);
 			path = libcsv;
 			sourceTree = "<group>";
@@ -227,11 +225,6 @@
 				017AAAC62283F6FB0004663B /* lt~obsolete.m4 */,
 			);
 			path = m4;
-			sourceTree = "<group>";
-		};
-		017AAACC2283F6FB0004663B /* Products */ = {
-			isa = PBXGroup;
-			name = Products;
 			sourceTree = "<group>";
 		};
 		01A51A4421C7077500A926F6 /* utilities */ = {
@@ -327,12 +320,6 @@
 			mainGroup = 01338EAE21A58BEB00CD676E;
 			productRefGroup = 01338EB821A58BEB00CD676E /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 017AAACC2283F6FB0004663B /* Products */;
-					ProjectRef = 017AAACB2283F6FB0004663B /* libcsv.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				01338EB621A58BEB00CD676E /* AvidyneR9DataLoader */,
