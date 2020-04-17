@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1010"
+   LastUpgradeVersion = "1140"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "01338EB621A58BEB00CD676E"
+               BlueprintIdentifier = "01E9FC1524497693008E2038"
                BuildableName = "AvidyneR9DataLoader"
                BlueprintName = "AvidyneR9DataLoader"
                ReferencedContainer = "container:AvidyneR9DataLoader.xcodeproj">
@@ -29,17 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "01338EB621A58BEB00CD676E"
-            BuildableName = "AvidyneR9DataLoader"
-            BlueprintName = "AvidyneR9DataLoader"
-            ReferencedContainer = "container:AvidyneR9DataLoader.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -47,7 +36,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/tmorgan/Downloads/working"
+      customWorkingDirectory = "/Users/tmorgan/Local Documents/In Progress/1MA Website"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
@@ -56,7 +45,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "01338EB621A58BEB00CD676E"
+            BlueprintIdentifier = "01E9FC1524497693008E2038"
             BuildableName = "AvidyneR9DataLoader"
             BlueprintName = "AvidyneR9DataLoader"
             ReferencedContainer = "container:AvidyneR9DataLoader.xcodeproj">
@@ -64,12 +53,10 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "${HOME}/Dropbox/Project\ Chute/N171MA/Operation\ Records/R9\ Data\ Logs/2019-04-22/*.CSV"
+            argument = "N171MA ${HOME}/Dropbox/Project\ Chute/N171MA/Operation\ Records/R9\ Data\ Logs/2019-04-22/*.CSV"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -81,7 +68,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "01338EB621A58BEB00CD676E"
+            BlueprintIdentifier = "01E9FC1524497693008E2038"
             BuildableName = "AvidyneR9DataLoader"
             BlueprintName = "AvidyneR9DataLoader"
             ReferencedContainer = "container:AvidyneR9DataLoader.xcodeproj">
